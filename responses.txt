@@ -1,0 +1,357 @@
+ROYAL DUTCH SHELL PLC
+04366849
+date of creation: 2002-02-05
+https://api.companieshouse.gov.uk/company/04366849/persons-with-significant-control
+{"errors":[{"error":"company-psc-not-found","type":"ch:service"}]}
+
+
+BP P.L.C.
+00102498
+date of creation: 1909-04-14
+https://api.companieshouse.gov.uk/company/00102498/persons-with-significant-control
+{"errors":[{"error":"company-psc-not-found","type":"ch:service"}]}
+
+
+FRESNILLO PLC
+06344120
+date of creation: 2007-08-15
+https://api.companieshouse.gov.uk/company/06344120/persons-with-significant-control
+{"errors":[{"type":"ch:service","error":"company-psc-not-found"}]}
+
+
+BISICHI MINING PUBLIC LIMITED COMPANY
+00112155
+date of creation: 1910-10-13
+https://api.companieshouse.gov.uk/company/00112155/persons-with-significant-control
+{"errors":[{"type":"ch:service","error":"company-psc-not-found"}]}
+
+
+LONDON & ASSOCIATED PROPERTIES PLC
+00341829
+date of creation: 1938-06-25
+https://api.companieshouse.gov.uk/company/00341829/persons-with-significant-control
+{"errors":[{"error":"company-psc-not-found","type":"ch:service"}]}
+
+
+BG GROUP LIMITED
+03690065
+date of creation: 1998-12-30
+https://api.companieshouse.gov.uk/company/03690065/persons-with-significant-control
+{"active_count":1,"total_results":1,"ceased_count":0,"items":[{"identification":{"place_registered":"Dutch Register Of Companies","legal_authority":"Dutch Company Law","registration_number":"2687","legal_form":"Private Company Limited By Shares","country_registered":"Netherlands"},"links":{"self":"/company/03690065/persons-with-significant-control/corporate-entity/Mu8Q_rIEhfqBR_kO5BsYBax4G_w"},"address":{"country":"Netherlands","locality":"The Hague","postal_code":"2596 HR","premises":"Carel Van Bylandtlaan 30"},"name":"Shell Petroleum N.V.","kind":"corporate-entity-person-with-significant-control","notified_on":"2016-09-30","etag":"7da05c475be2fd7f7782c2566f2c09b6108c89f4","natures_of_control":["ownership-of-shares-75-to-100-percent-as-firm","voting-rights-75-to-100-percent-as-firm","right-to-appoint-and-remove-directors-as-firm"]}],"items_per_page":25,"links":{"self":"/company/03690065/persons-with-significant-control"},"start_index":0}
+
+
+FERREXPO PLC
+05432915
+date of creation: 2005-04-22
+https://api.companieshouse.gov.uk/company/05432915/persons-with-significant-control
+{"errors":[{"type":"ch:service","error":"company-psc-not-found"}]}
+
+
+MONDI PLC
+06209386
+date of creation: 2007-04-11
+https://api.companieshouse.gov.uk/company/06209386/persons-with-significant-control
+{"errors":[{"type":"ch:service","error":"company-psc-not-found"}]}
+
+
+HOCHSCHILD MINING PLC
+05777693
+date of creation: 2006-04-11
+https://api.companieshouse.gov.uk/company/05777693/persons-with-significant-control
+{"errors":[{"type":"ch:service","error":"company-psc-not-found"}]}
+
+
+ENQUEST PLC
+07140891
+date of creation: 2010-01-29
+https://api.companieshouse.gov.uk/company/07140891/persons-with-significant-control
+{"errors":[{"type":"ch:service","error":"company-psc-not-found"}]}
+
+
+SOCO INTERNATIONAL PLC
+03300821
+date of creation: 1997-01-10
+https://api.companieshouse.gov.uk/company/03300821/persons-with-significant-control
+{"errors":[{"type":"ch:service","error":"company-psc-not-found"}]}
+
+
+CAIRN ENERGY PLC
+SC226712
+date of creation: 2002-01-07
+https://api.companieshouse.gov.uk/company/SC226712/persons-with-significant-control
+{"errors":[{"type":"ch:service","error":"company-psc-not-found"}]}
+
+
+NOSTRUM OIL & GAS PLC
+08717287
+date of creation: 2013-10-03
+https://api.companieshouse.gov.uk/company/08717287/persons-with-significant-control
+{"errors":[{"type":"ch:service","error":"company-psc-not-found"}]}
+
+
+ABU DHABI MARINE AREAS LIMITED
+00533446
+date of creation: 1954-05-18
+https://api.companieshouse.gov.uk/company/00533446/persons-with-significant-control
+{"items":[{"kind":"corporate-entity-person-with-significant-control","links":{"self":"/company/00533446/persons-with-significant-control/corporate-entity/_x7-rgOawgBYYS3FHqELhOdawqU"},"notified_on":"2016-04-06","natures_of_control":["ownership-of-shares-50-to-75-percent","voting-rights-50-to-75-percent","right-to-appoint-and-remove-directors"],"etag":"0ebbe267a01f985e2d65ef4130b5678a6e95ce9e","address":{"locality":"Aberdeen","premises":"Bp-Japan Oil Development Company Limited","address_line_1":"1 Wellheads Avenue","country":"United Kingdom","address_line_2":"Dyce","postal_code":"TW16 7BP"},"name":"Bp-Japan Oil Development Company Limited","identification":{"legal_authority":"Companies Act 2006","country_registered":"Scotland","legal_form":"Private Limited By Shares","place_registered":"Registrar Of Companies, United Kingdom","registration_number":"Sc001501"}},{"kind":"corporate-entity-person-with-significant-control","links":{"self":"/company/00533446/persons-with-significant-control/corporate-entity/2ryQohpRHHSm-VGOSpHDgtPJfZg"},"notified_on":"2016-04-06","natures_of_control":["ownership-of-shares-25-to-50-percent","voting-rights-25-to-50-percent","right-to-appoint-and-remove-directors"],"address":{"locality":"Paris","address_line_1":"Tour Coupole - 2 Place Jean Millier","country":"France","address_line_2":"Arche Nord - Coupole/Regnault","premises":"Total S.A"},"etag":"84c7351894a6e981b8318998e3e16267c11c72ae","name":"Total S.A.","identification":{"legal_form":"Public Limited Company","legal_authority":"Governed By The Laws Of France"}}],"items_per_page":25,"links":{"self":"/company/00533446/persons-with-significant-control"},"start_index":0,"active_count":2,"total_results":2,"ceased_count":0}
+
+
+PERENCO UK LIMITED
+04653066
+date of creation: 2003-01-30
+https://api.companieshouse.gov.uk/company/04653066/persons-with-significant-control
+{"items":[{"identification":{"legal_authority":"International Business Companies Act 2000","legal_form":"Limited","country_registered":"Bahamas","registration_number":"157171b","place_registered":"Nassau, Bahamas"},"notified_on":"2016-04-06","links":{"self":"/company/04653066/persons-with-significant-control/corporate-entity/dqV8omCuoNg7LEzL-5fasSLN0ZE"},"natures_of_control":["ownership-of-shares-75-to-100-percent"],"kind":"corporate-entity-person-with-significant-control","address":{"locality":"Nassau","premises":"Lyford Manor","country":"Bahamas","po_box":"N-10051","address_line_2":"Western Road","address_line_1":"Lyford Cay"},"etag":"dad7c35121c963598842ee8e13f73910767d732e","name":"Perenco Petroleum Limited"}],"ceased_count":0,"items_per_page":25,"start_index":0,"active_count":1,"total_results":1,"links":{"self":"/company/04653066/persons-with-significant-control"}}
+
+
+PERENCO OIL AND GAS COLOMBIA LIMITED
+01789505
+date of creation: 1984-02-07
+https://api.companieshouse.gov.uk/company/01789505/persons-with-significant-control
+{"errors":[{"type":"ch:service","error":"company-psc-not-found"}]}
+
+
+PERENCO (OIL & GAS) INTERNATIONAL LIMITED
+SC061143
+date of creation: 1976-11-17
+https://api.companieshouse.gov.uk/company/SC061143/persons-with-significant-control
+{"active_count":1,"links":{"self":"/company/SC061143/persons-with-significant-control"},"items":[{"identification":{"place_registered":"Registrar General","legal_form":"Limited","registration_number":"157171b","country_registered":"Bahamas","legal_authority":"International Business Companies Act 2000"},"notified_on":"2016-04-06","kind":"corporate-entity-person-with-significant-control","links":{"self":"/company/SC061143/persons-with-significant-control/corporate-entity/TMD5B_NjqLLkywacS4U3b6coJ74"},"natures_of_control":["ownership-of-shares-75-to-100-percent"],"name":"Perenco Petroleum Limited","etag":"a77e8479d935e432ff799c4e1cd5cc91ee0ce006","address":{"country":"Bahamas","address_line_2":"Western Road","address_line_1":"Lyford Cay","po_box":"N-10051","locality":"Nassau","premises":"Lyford Manor"}}],"total_results":1,"start_index":0,"items_per_page":25,"ceased_count":0}
+
+
+PERENCO OVERSEAS HOLDINGS LIMITED
+07517072
+date of creation: 2011-02-04
+https://api.companieshouse.gov.uk/company/07517072/persons-with-significant-control
+{"start_index":0,"items_per_page":25,"ceased_count":0,"total_results":1,"links":{"self":"/company/07517072/persons-with-significant-control"},"active_count":1,"items":[{"links":{"self":"/company/07517072/persons-with-significant-control/corporate-entity/jcB0n-lz8zyPfYbpFwU2TQZKYm8"},"natures_of_control":["ownership-of-shares-75-to-100-percent"],"kind":"corporate-entity-person-with-significant-control","address":{"country":"Bahamas","po_box":"N-10051","address_line_1":"Lyford Cay","address_line_2":"Western Road","locality":"Nassau","premises":"Lyford Manor"},"name":"Perenco S.A.","etag":"3b50a72f1b2346ddb07d77eaf1e72488c82aa44a","identification":{"legal_authority":"International Business Companies Act 2000","place_registered":"Registrar General","legal_form":"Limited","country_registered":"Bahamas","registration_number":"144184b"},"notified_on":"2016-04-06"}]}
+
+
+EQUION ENERGIA LIMITED
+00629687
+date of creation: 1959-06-05
+https://api.companieshouse.gov.uk/company/00629687/persons-with-significant-control
+{"errors":[{"type":"ch:service","error":"company-psc-not-found"}]}
+
+
+ANGLO ASIAN MINING PLC
+05227012
+date of creation: 2004-09-09
+https://api.companieshouse.gov.uk/company/05227012/persons-with-significant-control
+{"errors":[{"error":"company-psc-not-found","type":"ch:service"}]}
+
+
+JKX OIL & GAS PLC
+03050645
+date of creation: 1995-04-27
+https://api.companieshouse.gov.uk/company/03050645/persons-with-significant-control
+{"errors":[{"error":"company-psc-not-found","type":"ch:service"}]}
+
+
+CONOCOPHILLIPS PETROLEUM COMPANY U.K. LIMITED
+00792712
+date of creation: 1964-02-20
+https://api.companieshouse.gov.uk/company/00792712/persons-with-significant-control
+{"items":[{"links":{"self":"/company/00792712/persons-with-significant-control/corporate-entity/b8BowTtit38QJrVXnyn8VBzkPmo"},"natures_of_control":["ownership-of-shares-75-to-100-percent"],"notified_on":"2016-06-30","kind":"corporate-entity-person-with-significant-control","etag":"36e428761caf8fcf7d5546bb6b761caa3218a1b1","address":{"country":"England","locality":"London","postal_code":"W1H 6DU","address_line_1":"Portman Street","premises":"Portman House"},"identification":{"place_registered":"Companies House","country_registered":"England & Wales","registration_number":"3629601","legal_authority":"Companies Act 2006","legal_form":"Limited Company"},"name":"Conocophillips Holdings Limited"}],"total_results":1,"links":{"self":"/company/00792712/persons-with-significant-control"},"active_count":1,"ceased_count":0,"items_per_page":25,"start_index":0}
+
+
+BURLINGTON RESOURCES (IRISH SEA) LIMITED
+03440053
+date of creation: 1997-09-22
+https://api.companieshouse.gov.uk/company/03440053/persons-with-significant-control
+{"start_index":0,"items_per_page":25,"items":[{"name":"Burlington Resources (Uk) Holdings Limited","identification":{"legal_authority":"Companies Act 2006","legal_form":"Limited Company","place_registered":"Companies House","country_registered":"England & Wales","registration_number":"3453003"},"etag":"5194bde30211986571ac07e904c7a3d2fc74182f","address":{"locality":"London","postal_code":"W1H 6DU","premises":"Portman House","address_line_1":"Portman Street","country":"England"},"kind":"corporate-entity-person-with-significant-control","notified_on":"2016-06-30","natures_of_control":["ownership-of-shares-75-to-100-percent"],"links":{"self":"/company/03440053/persons-with-significant-control/corporate-entity/n_7skGs45tJzNzj5Q6kt9W9f6os"}}],"ceased_count":0,"total_results":1,"active_count":1,"links":{"self":"/company/03440053/persons-with-significant-control"}}
+
+
+CONOCOPHILLIPS (U.K.) LIMITED
+00524868
+date of creation: 1953-10-20
+https://api.companieshouse.gov.uk/company/00524868/persons-with-significant-control
+{"items":[{"links":{"self":"/company/00524868/persons-with-significant-control/corporate-entity/X9Cga6AWbwwyehI8e9kZK2TxSLY"},"natures_of_control":["ownership-of-shares-75-to-100-percent"],"etag":"d200ebea0e894180199ed1fc96af60d581b833b1","notified_on":"2016-06-30","address":{"country":"England","locality":"London","postal_code":"W1H 6DU","premises":"Portman House","address_line_1":"Portman Street"},"kind":"corporate-entity-person-with-significant-control","identification":{"legal_authority":"Companies Act 2006","place_registered":"Companies House","country_registered":"England & Wales","registration_number":"4550265","legal_form":"Limited Company"},"name":"Cop Holdings Limited"}],"items_per_page":25,"ceased_count":0,"start_index":0,"total_results":1,"active_count":1,"links":{"self":"/company/00524868/persons-with-significant-control"}}
+
+
+CHEVRON NORTH SEA LIMITED
+01546623
+date of creation: 1981-02-20
+https://api.companieshouse.gov.uk/company/01546623/persons-with-significant-control
+{"start_index":0,"total_results":1,"active_count":1,"ceased_count":0,"items":[{"kind":"corporate-entity-person-with-significant-control","links":{"self":"/company/01546623/persons-with-significant-control/corporate-entity/35UCqRPyzT6YI1Ab3AVsTtOkQRw"},"natures_of_control":["ownership-of-shares-75-to-100-percent-as-firm","voting-rights-75-to-100-percent-as-firm","right-to-appoint-and-remove-directors","significant-influence-or-control-as-firm"],"etag":"63cc3fe67a9ba0a8eee93f0950a35dda395b1b68","address":{"locality":"London","postal_code":"E14 4HA","country":"England","address_line_1":"Westferry Circus","premises":"1"},"notified_on":"2016-04-06","name":"Chevron Products Uk Limited","identification":{"legal_authority":"England","registration_number":"3600726","place_registered":"England","legal_form":"Limited By Shares","country_registered":"England"}}],"items_per_page":25,"links":{"self":"/company/01546623/persons-with-significant-control"}}
+
+
+PETROPAVLOVSK PLC
+04343841
+date of creation: 2001-12-20
+https://api.companieshouse.gov.uk/company/04343841/persons-with-significant-control
+{"errors":[{"type":"ch:service","error":"company-psc-not-found"}]}
+
+
+APACHE NORTH SEA PRODUCTION LIMITED
+07720972
+date of creation: 2011-07-28
+https://api.companieshouse.gov.uk/company/07720972/persons-with-significant-control
+{"errors":[{"type":"ch:service","error":"company-psc-not-found"}]}
+
+
+RIO TINTO PLC
+00719885
+date of creation: 1962-03-30
+https://api.companieshouse.gov.uk/company/00719885/persons-with-significant-control
+{"errors":[{"type":"ch:service","error":"company-psc-not-found"}]}
+
+
+ANGLO AMERICAN PLC
+03564138
+date of creation: 1998-05-14
+https://api.companieshouse.gov.uk/company/03564138/persons-with-significant-control
+{"errors":[{"error":"company-psc-not-found","type":"ch:service"}]}
+
+
+EVRAZ PLC
+07784342
+date of creation: 2011-09-23
+https://api.companieshouse.gov.uk/company/07784342/persons-with-significant-control
+{"errors":[{"error":"company-psc-not-found","type":"ch:service"}]}
+
+
+AGGREGATE INDUSTRIES UK LIMITED
+00245717
+date of creation: 1930-02-12
+https://api.companieshouse.gov.uk/company/00245717/persons-with-significant-control
+{"errors":[{"type":"ch:service","error":"company-psc-not-found"}]}
+
+
+AVOCET MINING PLC
+03036214
+date of creation: 1995-03-16
+https://api.companieshouse.gov.uk/company/03036214/persons-with-significant-control
+{"errors":[{"type":"ch:service","error":"company-psc-not-found"}]}
+
+
+ITHACA ENERGY (UK) LIMITED
+SC272009
+date of creation: 2004-08-16
+https://api.companieshouse.gov.uk/company/SC272009/persons-with-significant-control
+{"items_per_page":25,"start_index":0,"active_count":1,"links":{"self":"/company/SC272009/persons-with-significant-control"},"ceased_count":0,"items":[{"natures_of_control":["ownership-of-shares-75-to-100-percent-as-firm","voting-rights-75-to-100-percent-as-firm"],"kind":"corporate-entity-person-with-significant-control","name":"Ithaca Energy, Inc.","notified_on":"2016-04-06","identification":{"legal_authority":"Alberta, Canada","legal_form":"Corporate"},"address":{"locality":"Calgary","region":"Ab T2p 2z1","address_line_2":"S.W.","premises":"Suite 1600, 333","address_line_1":"7th Avenue","country":"Canada"},"etag":"44e53a7549a48cd033ec7e926afb2bf1946872cf","links":{"self":"/company/SC272009/persons-with-significant-control/corporate-entity/q7S3tJ7d3lVObUN7d9A7qizUZus"}}],"total_results":1}
+
+
+NORD GOLD SE
+SE000102
+date of creation: 2016-06-24
+https://api.companieshouse.gov.uk/company/SE000102/persons-with-significant-control
+{"errors":[{"error":"company-psc-not-found","type":"ch:service"}]}
+
+
+CENTRICA PLC
+03033654
+date of creation: 1995-03-16
+https://api.companieshouse.gov.uk/company/03033654/persons-with-significant-control
+{"errors":[{"error":"company-psc-not-found","type":"ch:service"}]}
+
+
+CNR INTERNATIONAL (U.K.) INVESTMENTS LIMITED
+01293529
+date of creation: 1977-01-06
+https://api.companieshouse.gov.uk/company/01293529/persons-with-significant-control
+{"errors":[{"error":"company-psc-not-found","type":"ch:service"}]}
+
+
+ANTOFAGASTA PLC
+01627889
+date of creation: 1982-04-07
+https://api.companieshouse.gov.uk/company/01627889/persons-with-significant-control
+{"errors":[{"type":"ch:service","error":"company-psc-not-found"}]}
+
+
+REPSOL SINOPEC RESOURCES UK LIMITED
+00825828
+date of creation: 1964-11-03
+https://api.companieshouse.gov.uk/company/00825828/persons-with-significant-control
+{"items_per_page":25,"items":[{"notified_on":"2016-04-06","identification":{"legal_authority":"Companies Act 2006","place_registered":"England And Wales","registration_number":"07307720","legal_form":"Private Limited Company","country_registered":"England And Wales"},"address":{"locality":"London","premises":"20-22","postal_code":"WC1R 4JS","country":"England","address_line_1":"Bedford Row"},"name":"Talisman Colombia Holdco Limited","etag":"2b046a0fa110d77d5b75378ee0dcdacbf7494901","natures_of_control":["ownership-of-shares-50-to-75-percent"],"links":{"self":"/company/00825828/persons-with-significant-control/corporate-entity/UiZsgGS150V2VDDzK5kUhreQ1jw"},"kind":"corporate-entity-person-with-significant-control"},{"notified_on":"2016-04-06","etag":"02c4b49ccaa3c1bd65db8427745776147783e433","natures_of_control":["ownership-of-shares-25-to-50-percent"],"kind":"corporate-entity-person-with-significant-control","name":"Addax Petroleum Uk Limited","address":{"country":"England","postal_code":"WC1R 4JS","locality":"London","address_line_1":"Bedford Row","premises":"20-22"},"links":{"self":"/company/00825828/persons-with-significant-control/corporate-entity/nlJXIHk6IarKm9k4AAlOS5HmWuo"},"identification":{"country_registered":"England And Wales","registration_number":"08135892","legal_form":"Private Limited Company","legal_authority":"Companies Act 2006","place_registered":"England And Wales"}}],"active_count":2,"start_index":0,"ceased_count":0,"total_results":2,"links":{"self":"/company/00825828/persons-with-significant-control"}}
+
+
+TULLOW OIL PLC
+03919249
+date of creation: 2000-02-04
+https://api.companieshouse.gov.uk/company/03919249/persons-with-significant-control
+{"errors":[{"type":"ch:service","error":"company-psc-not-found"}]}
+
+
+KAZ MINERALS PLC
+05180783
+date of creation: 2004-07-15
+https://api.companieshouse.gov.uk/company/05180783/persons-with-significant-control
+{"errors":[{"type":"ch:service","error":"company-psc-not-found"}]}
+
+
+DANA PETROLEUM LIMITED
+03456891
+date of creation: 1997-10-23
+https://api.companieshouse.gov.uk/company/03456891/persons-with-significant-control
+{"errors":[{"type":"ch:service","error":"company-psc-not-found"}]}
+
+
+CADOGAN PETROLEUM PLC
+05718406
+date of creation: 2006-02-22
+https://api.companieshouse.gov.uk/company/05718406/persons-with-significant-control
+{"errors":[{"type":"ch:service","error":"company-psc-not-found"}]}
+
+
+MARATHON OIL WEST OF SHETLANDS LIMITED
+04105025
+date of creation: 2000-11-06
+https://api.companieshouse.gov.uk/company/04105025/persons-with-significant-control
+{"errors":[{"error":"company-psc-not-found","type":"ch:service"}]}
+
+
+ENDEAVOUR ENERGY UK LIMITED
+05030838
+date of creation: 2004-01-30
+https://api.companieshouse.gov.uk/company/05030838/persons-with-significant-control
+{"errors":[{"type":"ch:service","error":"company-psc-not-found"}]}
+
+
+TRANS-SIBERIAN GOLD PLC
+01067991
+date of creation: 1972-08-25
+https://api.companieshouse.gov.uk/company/01067991/persons-with-significant-control
+{"errors":[{"error":"company-psc-not-found","type":"ch:service"}]}
+
+
+ESSO EXPLORATION AND PRODUCTION UK LIMITED
+00207426
+date of creation: 1925-07-22
+https://api.companieshouse.gov.uk/company/00207426/persons-with-significant-control
+{"items":[{"address":{"country":"England","locality":"Leatherhead","address_line_1":"Ermyn Way","postal_code":"KT22 8UX","region":"Surrey","premises":"Exxonmobil House"},"natures_of_control":["ownership-of-shares-75-to-100-percent","voting-rights-75-to-100-percent","right-to-appoint-and-remove-directors","significant-influence-or-control"],"etag":"e432bfab6cf379266cb9c0bef07ca50d48b225fc","identification":{"registration_number":"1589650","place_registered":"Companies House","legal_authority":"England And Wales","country_registered":"United Kingdom","legal_form":"Limited"},"notified_on":"2016-04-06","links":{"self":"/company/00207426/persons-with-significant-control/corporate-entity/HxQdljc_etDBbLU0xDCUOgZuygI"},"name":"Esso Uk Limited","kind":"corporate-entity-person-with-significant-control"}],"total_results":1,"start_index":0,"items_per_page":25,"active_count":1,"links":{"self":"/company/00207426/persons-with-significant-control"},"ceased_count":0}
+
+
+PETROLATINA ENERGY LIMITED
+05173588
+date of creation: 2004-07-07
+https://api.companieshouse.gov.uk/company/05173588/persons-with-significant-control
+{"errors":[{"type":"ch:service","error":"company-psc-not-found"}]}
+
+
+ACACIA MINING PLC
+07123187
+date of creation: 2010-01-12
+https://api.companieshouse.gov.uk/company/07123187/persons-with-significant-control
+{"errors":[{"error":"company-psc-not-found","type":"ch:service"}]}
+
+
+JX NIPPON EXPLORATION AND PRODUCTION (U.K.) LIMITED
+03288689
+date of creation: 1996-12-02
+https://api.companieshouse.gov.uk/company/03288689/persons-with-significant-control
+{"links":{"self":"/company/03288689/persons-with-significant-control"},"items_per_page":25,"items":[{"identification":{"legal_authority":"Japan","place_registered":"Tokyo Legal Affairs Bureau","legal_form":"Public Company Limited By Shares","country_registered":"Japan","registration_number":"0100-01-131743"},"kind":"corporate-entity-person-with-significant-control","address":{"address_line_2":"Chiyoda-Ku","address_line_1":"1-1-2 Otemachi","country":"Japan","locality":"Tokyo","region":"Japan","premises":"1-1-2"},"notified_on":"2016-04-06","natures_of_control":["ownership-of-shares-75-to-100-percent","voting-rights-75-to-100-percent","right-to-appoint-and-remove-directors"],"links":{"self":"/company/03288689/persons-with-significant-control/corporate-entity/B23egt6u9Bzwe7XeVfO4GdsMS38"},"name":"Jx Holdings, Inc","etag":"fdf6c65e5a596a434ef90c8a8b684a9d0bd66626"}],"ceased_count":0,"start_index":0,"active_count":1,"total_results":1}
+
+
+SUNCOR ENERGY UK LIMITED
+00972618
+date of creation: 1970-02-17
+https://api.companieshouse.gov.uk/company/00972618/persons-with-significant-control
+{"errors":[{"error":"company-psc-not-found","type":"ch:service"}]}
+
+
+NEXEN PETROLEUM U.K. LIMITED
+01051137
+date of creation: 1972-04-24
+https://api.companieshouse.gov.uk/company/01051137/persons-with-significant-control
+{"links":{"self":"/company/01051137/persons-with-significant-control"},"ceased_count":0,"total_results":1,"start_index":0,"active_count":1,"items":[{"identification":{"place_registered":"Companies House Uk","registration_number":"08391492","country_registered":"Uk","legal_authority":"Companies Act Uk","legal_form":"Limited Company"},"name":"Cnooc Uk Limited","etag":"e2ab3ff6ad39d059ac08071a5c66e58d92c81c7d","address":{"locality":"Uxbridge","postal_code":"UB8 1LU","premises":"Prospect House","address_line_1":"97 Oxford Road","country":"England"},"kind":"corporate-entity-person-with-significant-control","links":{"self":"/company/01051137/persons-with-significant-control/corporate-entity/rolE2IBx8Nt8qA2RBaIlXXj5J_w"},"notified_on":"2016-04-06","natures_of_control":["ownership-of-shares-75-to-100-percent","voting-rights-75-to-100-percent","right-to-appoint-and-remove-directors"]}],"items_per_page":25}
+
+
