@@ -1,0 +1,52 @@
+CH id, PSC 1, country 1, control 1, PSC2, country 2, control 2
+04366849, no PSC
+00102498, no PSC
+06344120, no PSC
+00112155, no PSC
+00341829, no PSC
+03690065, Shell Petroleum N.V., Netherlands, ownership-of-shares-75-to-100-percent-as-firm, 
+05432915, no PSC
+06209386, no PSC
+05777693, no PSC
+07140891, no PSC
+03300821, no PSC
+SC226712, no PSC
+08717287, no PSC
+00533446, Bp-Japan Oil Development Company Limited, Scotland, ownership-of-shares-50-to-75-percent, Total S.A., , ownership-of-shares-25-to-50-percent, 
+04653066, Perenco Petroleum Limited, Bahamas, ownership-of-shares-75-to-100-percent, 
+01789505, no PSC
+SC061143, Perenco Petroleum Limited, Bahamas, ownership-of-shares-75-to-100-percent, 
+07517072, Perenco S.A., Bahamas, ownership-of-shares-75-to-100-percent, 
+00629687, no PSC
+05227012, no PSC
+03050645, no PSC
+00792712, Conocophillips Holdings Limited, England & Wales, ownership-of-shares-75-to-100-percent, 
+03440053, Burlington Resources (Uk) Holdings Limited, England & Wales, ownership-of-shares-75-to-100-percent, 
+00524868, Cop Holdings Limited, England & Wales, ownership-of-shares-75-to-100-percent, 
+01546623, Chevron Products Uk Limited, England, ownership-of-shares-75-to-100-percent-as-firm, 
+04343841, no PSC
+07720972, no PSC
+00719885, no PSC
+03564138, no PSC
+07784342, no PSC
+00245717, no PSC
+03036214, no PSC
+SC272009, Ithaca Energy, Inc., , ownership-of-shares-75-to-100-percent-as-firm, 
+SE000102, no PSC
+03033654, no PSC
+01293529, no PSC
+01627889, no PSC
+00825828, Talisman Colombia Holdco Limited, England And Wales, ownership-of-shares-50-to-75-percent, Addax Petroleum Uk Limited, England And Wales, ownership-of-shares-25-to-50-percent, 
+03919249, no PSC
+05180783, no PSC
+03456891, no PSC
+05718406, no PSC
+04105025, no PSC
+05030838, no PSC
+01067991, no PSC
+00207426, Esso Uk Limited, United Kingdom, ownership-of-shares-75-to-100-percent, 
+05173588, no PSC
+07123187, no PSC
+03288689, Jx Holdings, Inc, Japan, ownership-of-shares-75-to-100-percent, 
+00972618, no PSC
+01051137, Cnooc Uk Limited, Uk, ownership-of-shares-75-to-100-percent, 
